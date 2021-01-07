@@ -1,0 +1,31 @@
+.page-index {
+  min-height: 80vh;
+
+  .index-title {
+    font-size: 1.8em;
+  }
+
+  h3,
+  h4,
+  h5 {
+    border-left: 1px solid lightgrey;
+    a {
+      margin-left: 10px;
+    }
+  }
+
+  h3 {
+    margin-left: 2vw;
+  }
+
+  h4 {
+    margin-left: 4vw;
+  }
+
+  .container {
+    .row {
+      padding: 1vh 0;
+      margin: 1vh;
+    }
+  }
+}
